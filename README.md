@@ -1,2 +1,2 @@
 # rise
- Gestion de decks
+ Gestion de decks Rise
